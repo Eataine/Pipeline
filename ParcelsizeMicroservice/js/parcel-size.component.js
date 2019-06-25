@@ -80,7 +80,7 @@ angular.
                     function(response)
                     {
                         self.parcelsize.size = "error";
-                        console.log("Ahhhhhhhhh")
+                        console.log("Ahhhhhhhhhhhhhhhoch 10")
                     }
                 );          
           }
