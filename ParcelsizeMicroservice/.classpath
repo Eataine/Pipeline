@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry exported="true" kind="lib" path="/home/eataine/Desktop/CICD-Pipeline/jsr311-api-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/eataine/Desktop/CICD-Pipeline/jersey-bundle-1.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/eataine/Desktop/CICD-Pipeline/asm-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/eataine/Desktop/CICD-Pipeline/http-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/eataine/Desktop/CICD-Pipeline/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
